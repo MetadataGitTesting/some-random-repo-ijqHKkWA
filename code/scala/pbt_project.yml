@@ -1,0 +1,22 @@
+name: tyree.ernser
+description: User fork
+version: 1
+author: cassy.koepp@hotmail.com
+workflows:
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: cassy.koepp@hotmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-01-04 14:47:52'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules:
+  schedules/Tracie_Ryan:
+    name: Tracie_Ryan
+    description: Really solid info
+    createdAt: '2022-01-04 14:47:53'
+    author: cassy.koepp@hotmail.com
